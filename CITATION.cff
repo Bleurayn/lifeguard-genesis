@@ -1,10 +1,16 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+message: "If you use this software, please cite it using the metadata from this file."
 authors:
-  - family-names: Harrison
-    given-names: Cassandra
+  - name: Cassandra Harrison
     orcid: "https://orcid.org/0009-0003-1280-003X
 title: "LifeGuard Genesis: A Biotechnology-Inspired Adaptive Deception Framework"
 version: 1.1.0
-doi: 10.5281/zenodo.XXXXXXX
-date-released: 2025-12-10
+date-released: "2025-12-10"
+license: "MIT"
+repository-code: "https://github.com/yourusername/lifeguard-genesis"
+url: "https://github.com/yourusername/lifeguard-genesis"
+keywords:
+  - "cybersecurity"
+  - "deception"
+  - "honeypot"
+  - "biotechnology"
