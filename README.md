@@ -3,11 +3,9 @@ A novel adaptive security and deception platform using biological metaphors (pro
 
 # LifeGuard Genesis — A Biotechnology-Inspired Adaptive Deception Framework
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13817888.svg)](https://doi.org/10.5281/zenodo.13817888)
-[![Release](https://img.shields.io/github/v/release/yourusername/lifeguard-genesis)](https://github.com/yourusername/lifeguard-genesis/releases)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17888291.svg)](https://doi.org/10.5281/zenodo.17888291)
+[![Release](https://img.shields.io/github/v/release/bleurayn/lifeguard-genesis)](https://github.com/bleurayn/lifeguard-genesis/releases)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Python](https://img.shields.io/badge/Python-3.12-blue)](https://python.org)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.104-green)](https://fastapi.tiangolo.com)
 
 **"When compliance theater becomes weaponized deception."**
 
@@ -31,11 +29,12 @@ docker compose up --build
 # Prometheus: http://localhost:9090
 
 @software{lifeguard_genesis_2025,
-  author       = Cassandra Harrison,
+  author       = {Harrison, Cassandra},
   title        = {LifeGuard Genesis: A Biotechnology-Inspired Adaptive Deception Framework},
+  month        = dec,
   year         = 2025,
+  version      = {1.1.0},
   publisher    = {Zenodo},
-  version      = {v1.1.0},
-  doi          = {10.5281/zenodo.XXXXXXX},
-  url          = {https://doi.org/10.5281/zenodo.XXXXXXX}
+  doi          = {10.5281/zenodo.17888291},
+  url          = {https://doi.org/10.5281/zenodo.17888291}
 }
