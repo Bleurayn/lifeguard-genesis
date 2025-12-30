@@ -1,27 +1,32 @@
-# lifeguard-genesis
-A novel adaptive security and deception platform using biological metaphors (protein folding, enzyme kinetics, immune response) with real cryptography, high-interaction honeypots, and Prometheus monitoring. Designed for biotech, pharma, and clinical research defense.
-
-# LifeGuard Genesis — A Biotechnology-Inspired Adaptive Deception Framework
+# LifeGuard Genesis — Biotechnology-Inspired Adaptive Deception Framework
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17888291.svg)](https://doi.org/10.5281/zenodo.17888291)
-[![Release](https://img.shields.io/github/v/release/bleurayn/lifeguard-genesis)](https://github.com/bleurayn/lifeguard-genesis/releases)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.12-blue)](https://python.org)
 
-**"When compliance theater becomes weaponized deception."**
+**Public Prototype • v1.2.0 (Hardened — December 30, 2025)**
 
-**LifeGuard Genesis** is a novel adaptive security and high-interaction deception platform that uses biological metaphors (protein folding, enzyme kinetics, circadian rhythms, immune response) to implement real cryptographic protections and ultra-realistic honeypots tailored for life-sciences environments (biotech, pharma, clinical trials).
+A bio-inspired adaptive security and high-interaction deception platform using protein folding authentication, enzyme kinetics rate limiting, circadian rhythm controls, and realistic honeypots — now significantly hardened for real-world use.
 
-Originally performance art. Now a citable, monitored, containerized deception system.
+### Major Updates in v1.2.0
+- **Proper challenge-response authentication** (no more client-side guesswork)
+- **Automatic user quarantine** after repeated failed attempts
+- **Global + per-user rate limiting** (DoS resistant)
+- **Immediate system evolution** on honeypot interaction
+- **SQLite persistence** across restarts
+- **Enhanced sequence realism** (optional BioPython GC balancing)
+- **No honeypot flag leaks** to attackers
 
 ### Features
-- Real Fernet (AES-128-GCM) + PBKDF2 encryption (no more DNA-XOR)
-- Token-bucket rate limiting (no `time.sleep()` DoS)
-- Full SHA-256 protein-folding authentication
-- Secure, expiring session management
-- High-interaction honeypots with fake CRISPR, Alzheimer’s, cancer immunotherapy projects
-- Prometheus + Grafana monitoring
-- Docker / docker-compose ready
+- Bio-mimetic security: protein folding challenges, Michaelis-Menten rate limiting, circadian access controls
+- High-interaction honeypots with fake CRISPR, cancer immunotherapy, Alzheimer’s projects
+- Prometheus monitoring
+- Docker + docker-compose ready
+- MIT licensed — free to use, extend, deploy
 
+### Quick Start
+```bash
+docker compose up --build
 ### Quick Start
 ```bash
 docker compose up --build
