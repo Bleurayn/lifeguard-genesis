@@ -23,6 +23,25 @@ A bio-inspired adaptive security and high-interaction deception platform using p
 - Prometheus monitoring
 - Docker + docker-compose ready
 - MIT licensed — free to use, extend, deploy
+- LifeGuard Genesis
+Copyright (c) 2025 Cassandra Harrison
+
+LifeGuard Genesis is a biotechnology-inspired adaptive deception and security framework created by Cassandra Harrison / Bleurayn.
+
+Core concepts include:
+- protein folding authentication
+- Michaelis-Menten rate limiting
+- circadian access controls
+- adaptive high-interaction honeypots
+- fake biomedical research decoys
+- automatic quarantine
+- defensive evolution based on attacker interaction
+
+Required attribution:
+“LifeGuard Genesis — created by Cassandra Harrison / Bleurayn.”
+
+Source repository:
+Bleurayn/lifeguard-genesis
 
 ### Quick Start
 ```bash
